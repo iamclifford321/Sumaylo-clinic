@@ -1,0 +1,6 @@
+div.CMU-half-hour:hover{
+  background : rgba(158,158,158,0.69);
+}
+div.HourElemWithMinute{
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+div.all-cover-add-new{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: rgba(45, 41, 41, 0.28);
+}
